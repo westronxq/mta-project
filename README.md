@@ -1,2 +1,2 @@
 # install module
-npm install npm install gamedig
+```npm install``` ```npm install gamedig```
